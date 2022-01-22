@@ -1,4 +1,4 @@
-![](https://github.com/yakovzur/yakovzur/blob/main/Banner5.png)
+![](https://github.com/yakovzur/yakovzur/blob/main/Banner6.png)
 
 ### Hi there 👋, my name is Yakov
 #### Web Developer and Designer
