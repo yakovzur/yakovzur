@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hi there 👋, my name is Yakov
+![](https://twitter.com/JacobTli/header_photo)
 
-I'm Yakov from Israel,
-I'm a Coder and Engineer. You can check out my twitter at twitter.com/JacobTli
+I'm a Coder and Engineer, from Israel
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yakovzur)](https://github.com/anuraghazra/github-readme-stats)
+Skills: Python / Java / JS / HTML / CSS
+
+- 🔭 I’m currently working on my own company 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yakovzur)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/JacobTLI)  
+
