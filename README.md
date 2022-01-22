@@ -1,4 +1,4 @@
-![](https://pbs.twimg.com/profile_banners/893525251/1642848620/600x200)
+![](https://github.com/yakovzur/yakovzur/blob/main/Banner.png)
 
 #### Hi there 👋, my name is Yakov
 ### Web Developer and Designer
