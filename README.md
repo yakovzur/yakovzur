@@ -1,11 +1,11 @@
 ![](https://github.com/yakovzur/yakovzur/blob/main/Banner2.png)
 
-#### Hi there 👋, my name is Yakov
-### Web Developer and Designer
+### Hi there 👋, my name is Yakov
+#### Web Developer and Designer
 
 I'm a Coder and Engineer, from Israel
 
-### Skills and Experience
+#### Skills and Experience
 * 🐍 Python
 * ☕ Java
 * 💻 JS / HTML / CSS
