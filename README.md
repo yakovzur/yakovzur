@@ -1,11 +1,11 @@
 ![](https://pbs.twimg.com/profile_banners/893525251/1642848620/600x200)
 
-# Hi there 👋, my name is Yakov
-## Web Developer and Designer
+#### Hi there 👋, my name is Yakov
+### Web Developer and Designer
 
 I'm a Coder and Engineer, from Israel
 
-## Skills and Experience
+### Skills and Experience
 * 🐍 Python
 * ☕ Java
 * 💻 JS / HTML / CSS
