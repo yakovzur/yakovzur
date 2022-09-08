@@ -1,9 +1,9 @@
 ![](https://github.com/yakovzur/yakovzur/blob/main/Banner6.png)
 
-### Hi there 👋, my name is Yakov
+### Hi there 👋, my name is loenina
 #### Web Developer and Designer
 
-I'm a Coder and Engineer, from Israel
+I'm a Coder and Engineer, 
 
 #### Skills and Experience
 * 🐍 Python
