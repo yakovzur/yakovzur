@@ -6,6 +6,7 @@
 I'm a Coder and Engineer, 
 
 #### Skills and Experience
+* Next js
 * 🐍 Python
 * ☕ Java
 * 💻 JS / HTML / CSS
