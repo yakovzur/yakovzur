@@ -1,6 +1,6 @@
 ![](https://github.com/yakovzur/yakovzur/blob/main/Banner6.png)
 
-### Hi there 👋, my name is loenina
+### Hi there 👋, My name is LouieNina
 #### Web Developer and Designer
 
 I'm a Coder and Engineer, 
